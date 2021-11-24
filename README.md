@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+
+## Carlos Vásquez
 
 ## 🤓 Course overview and learning outcomes 
 
